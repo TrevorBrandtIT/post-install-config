@@ -96,10 +96,11 @@ Navigate back to the Admin Panel, let's add a few SLAs. SLAs are Service Level A
 </p>
 <p>
 Finally, we'll add a few Business Help Topics. Business Help Topics are essentially a category of problem that already has specific characteristics and SLAs tied to it. From the Admin Panel click Manage -> Help Topics -> "Add New Help Topic". We'll create four in total. 
-  
+  <li>
   1: Business Critical Outage - Click into New Ticket Options and select System Administrators, Open, Emergency, and Sev-A. Click Add Topic.
   2: Personal Computer Issues - Click into New Ticket Options and select Support, Open, Normal, and Sev-B. Click Add Topic.
   3: Equipment Request - Click into New Ticket Options and select Maintenance, Open, Normal, and Default. Click Add Topic.
   4: Password Reset: Click into New Ticket Options and select Support, Open, Normal, Sev-B. Click Add Topic.
+  </li>
 </p>
 <br />
