@@ -11,6 +11,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- osTicket
+- osTicket Agent Login and Ticket Submission Page
 
 <h2>Operating Systems Used </h2>
 
@@ -29,7 +31,31 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Welcome back! Let's get right into it. Assuming you're here from the last tutorial and doing these in order, go ahead and log into osTicket using the username and password you made. Notice that you can swap back and forth between an admin and agent panel.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+We're going to create some roles. From the Admin panel, navigate to the Agents Tab. Click on roles, and then click "Add A New Role". We're going to name this one Supreme Admin. After you've typed a name for the role, go to the permissions tab and give this one every permission there is. Repeat the process for however many roles you'd like to add.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, we'll create some departments. Starting from the Admin Panel, click on the Agents Tab. Click on Departments, and then click on "Add A New Department". Name this one System Administrators. Notice all of the fields you can change like SLAs, Manager, and so on. Repeat the process as many times as you'd like.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Moving on, let's create a few teams. Back in the Admin Panel, click on the Agents Tab. Click on Teams, notice that Level I Support is already a team. Click on "Add A New Team and name this one Level II Support. Repeat this process as many times as you'd like.
 </p>
 <br />
 
