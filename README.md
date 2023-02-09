@@ -105,3 +105,8 @@ Finally, we'll add a few Business Help Topics. Business Help Topics are essentia
 </ol>
 </p>
 <br />
+
+<p>
+This step is completed! We've officially configured osTicket. The next section will cover a few example tickets, and how to respond to them.
+</p>
+<br />
