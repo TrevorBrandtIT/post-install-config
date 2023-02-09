@@ -71,7 +71,7 @@ Next, we'll let anyone, even anonymous users, submit tickets. Navigate to the Ad
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Let's create a few Agents. We'll call them Jane and John. Go to the Admin panel and click on the Agents Tab.
+Let's create a few Agents. We'll call them Jane and John. Go to the Admin panel and click on the Agents Tab. Click on "Add A New Agent" and fill out the first and last name fields, the email, and the username fields. Next, click "Set Password" and then uncheck the box, set the password, and uncheck the box that requires a password change at the agent's next login. Then give all of the appropriate permissions and assign to teams as needed. 
 </p>
 <br />
 
@@ -79,7 +79,7 @@ Let's create a few Agents. We'll call them Jane and John. Go to the Admin panel 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now we'll create a couple of users, their names will be Ken and Karen. In the top right hand corner, switch to the Agent Panel. From the Agent Panel, click on the Users Tab, and then click on "Add User". Fill out the email and full name fields.
 </p>
 <br />
 
@@ -87,7 +87,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
